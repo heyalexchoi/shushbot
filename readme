@@ -2,3 +2,4 @@ shushbot
 
 - script `sh ssh` to ssh into pi
 - script `sh sshfs` to mount pi filesystem into dir `~/pi`
+- script `sh dump` to dump contents of this dir into `~/pi/shushbot`
