@@ -1,0 +1,4 @@
+shushbot
+
+- script `sh ssh` to ssh into pi
+- script `sh sshfs` to mount pi filesystem into dir `pi`
