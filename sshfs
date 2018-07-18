@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sshfs pi@10.31.107.17: ~/pi
